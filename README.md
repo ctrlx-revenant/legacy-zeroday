@@ -1,4 +1,4 @@
-# fsociety // legacy 0-day drop
+# fsociety // legacy Zero-day drop
 
 This exploit affects the legacy payroll module still used in some East Coast E-Corp branches.
 
